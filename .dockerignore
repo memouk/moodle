@@ -1,0 +1,9 @@
+.git
+.github
+terraform
+node_modules
+public/node_modules
+npm-cache
+*.md
+.grunt
+.vscode
